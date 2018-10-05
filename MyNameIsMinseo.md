@@ -1,5 +1,5 @@
 # 나를 소개해보자!
-
+![자기소개 마인드맵](https://github.com/1203minseo/MyNameIsMinseo/blob/master/%EB%A7%88%EC%9D%B8%EB%93%9C%20%EB%A7%B5.jpg?raw=true)
 **프로필**
 - 김민서
 - 20세 (만 18세)
